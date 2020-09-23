@@ -1,2 +1,2 @@
 It is my second repository
-hnhhn
+My working tree, for the next stage area
