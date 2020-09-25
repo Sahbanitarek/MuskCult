@@ -1,2 +1,3 @@
 It is my second repository
-My working tree, for the next stage area
+0My working tree, for the next stage area
+test git add 
